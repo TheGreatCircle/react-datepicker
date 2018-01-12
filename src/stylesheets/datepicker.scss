@@ -42,7 +42,7 @@
   }
 
   &[data-placement^="right"] {
-    margin-left: $datepicker__triangle-size;
+    margin-left: 25px;
 
     .react-datepicker__triangle {
       left: auto;
